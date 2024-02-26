@@ -1,0 +1,31 @@
+#trivia-container {
+    position: fixed;
+    color: #FFFFFF; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+}
+  
+body {
+    background-color: #73a4e6 !important;
+}
+  
+.card-header {
+    background-color: #e8968e !important;
+    color: #FFFFFF; 
+}
+  
+.container {
+    transform: translate(1%, 40%);
+    font-family: cursive;
+}
+  
+.card-body {
+    color: #7F5281;
+    background-color: #FFCCDD;
+}
+  
+#play-again-btn {
+    background-color: #333333;
+    transform: translate(1%, 200%);
+}

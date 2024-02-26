@@ -1,0 +1,53 @@
+[
+{
+      "question": "¿Quién es el protagonista del anime de Pokemon?",
+      "options": ["Naruto Uzumaki", "Ash Ketchum", "Milize Vladilena", "Renji Abarai"],
+      "correct_answer": "Ash Ketchum"
+    },
+    {
+      "question": "¿Cuál de estos Pokemon no es tipo Dragón?",
+      "options": ["Charizard", "Garchomp", "Dratini", "Goodra"],
+      "correct_answer": "Charizard"
+    },
+    {
+      "question": "¿Qué tipo de Pokemon es Eevee?",
+      "options": ["Normal", "Eléctrico", "Psíquico", "Siniestro"],
+      "correct_answer": "Normal"
+    },
+    {
+      "question": "¿Quién es el Pokemon futbolista?",
+      "options": ["Torterra", "Gyarados", "Scorbunny", "Meloetta"],
+      "correct_answer": "Scorbunny"
+    },
+    {
+      "question": "¿De qué tipo no hay Eevolution?",
+      "options": ["Planta", "Volador", "Fuego", "Hielo"],
+      "correct_answer": "Volador"
+    },
+    {
+      "question": "¿Cuál de los siguientes pokemon no tiene su propia version en Alola?",
+      "options": ["Vulpix", "Ninetales", "Dugtrio", "Pidgeot"],
+      "correct_answer": "Pidgeot"
+    },
+    {
+      "question": "¿Cuál de los siguientes pokemon esta en el equipo de Cynthia?",
+      "options": ["Garchomp", "Blaziken", "Snubull", "Magikarp"],
+      "correct_answer": "Garchomp"
+    },
+    {
+      "question": "¿Cuál es la pre-evolución de Pikachu?",
+      "options": ["Raichu", "Mimikyu", "Pichu", "Jolteon"],
+      "correct_answer": "Pichu"
+    },
+    {
+      "question": "¿Cuantas colas tiene Vulpix?",
+      "options": ["1", "6", "9", "3"],
+      "correct_answer": "6"
+    },
+    {
+      "question": "¿Cuál de los siguientes es un inicial tipo planta?",
+      "options": ["Sprigatito", "Chimchar", "Squirtle", "Tepig"],
+      "correct_answer": "Sprigatito"
+    }
+  ]
+  
